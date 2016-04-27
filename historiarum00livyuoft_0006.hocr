@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarum00livyuoft_0006.png"; bbox 0 0 1649 2452; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 2058 1306 2107">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 2058 1306 2107">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 2058 1306 2107; baseline -0.016 -7"><span class='ocrx_word' id='word_1_1' title='bbox 340 2079 468 2107; x_wconf 48' lang='lat' dir='ltr'><strong>oaosu</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 486 2080 493 2102; x_wconf 82' lang='lat'>2</span> <span class='ocrx_word' id='word_1_3' title='bbox 521 2073 761 2105; x_wconf 57' lang='lat' dir='ltr'>ExcumlnaemT</span> <span class='ocrx_word' id='word_1_4' title='bbox 776 2068 930 2096; x_wconf 59' lang='lat' dir='ltr'>neonus</span> <span class='ocrx_word' id='word_1_5' title='bbox 951 2061 1100 2100; x_wconf 35' lang='lat' dir='ltr'>[amur.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1118 2061 1157 2090; x_wconf 58' lang='grc' dir='ltr'>επ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1175 2058 1306 2090; x_wconf 53' lang='lat' dir='ltr'>soem&amp;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
